@@ -1,7 +1,7 @@
 <script setup>
 import Header from '../shared/Header.vue'
 import Footer from '../shared/Footer.vue'
-import Features from '../Features.vue'
+import Features from '../AppFeatures.vue'
 import Hero from '../Hero.vue'
 </script>
 
