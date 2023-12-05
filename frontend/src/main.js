@@ -51,4 +51,10 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
     });
+
+    //Create Todo Modal
+    document.getElementById('defaultModalButton').click();
+
+    //Read Todo Modal
+    document.getElementById('readProductButton').click();
 });
