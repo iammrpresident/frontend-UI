@@ -1,5 +1,5 @@
 <template>
-<section class="bg-white dark:bg-gray-900">
+<section class="bg-gray-200 dark:bg-gray-700">
   <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
       <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
           <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">📌 Key Features</h2>
